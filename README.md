@@ -6,6 +6,7 @@ App developed for Android/IOS to copy an exact HEX color changing slidders for R
 C#
 MAUI
 XAML
+
 ⚙️ Instalation
 Clone the repo
 Install in your Android/IOS device or run in Winows machine
